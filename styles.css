@@ -1,0 +1,25 @@
+.searchColumn {
+    background-color: #eee;
+}
+
+h2, h3 {
+    padding-top: 12px;
+    font-weight: 550;
+}
+
+h4 {
+    font-weight: 655;
+}
+
+.container {
+    max-width: 1300px;
+}
+
+.bg-primary, .input-group {
+    margin-bottom: 10px;
+}
+
+.btn-group-vertical {
+    width: 100%;
+    display: inline-block;
+}
